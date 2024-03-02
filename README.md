@@ -38,7 +38,7 @@ The project is implemented using:
 - matplotlib
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Salar Amini](https://github.com/yourusername)
 
 Feel free to contribute to this project by submitting issues or pull requests!
 
